@@ -1,4 +1,6 @@
-CODE SNIPPETS
+# PROPERATI DATA 
+# STEP WISE PRE-PROCESSING
+# ML ALGORITHM APPLICATION
 
 import pandas as pd
 import numpy as np
